@@ -4,4 +4,4 @@ cd datasetvisualize
 
 pip install streamlit pandas numpy matplotlib seaborn plotly scikit-learn
 
-streamlit run datavisualize.py
+streamlit run datasetvisualize.py
